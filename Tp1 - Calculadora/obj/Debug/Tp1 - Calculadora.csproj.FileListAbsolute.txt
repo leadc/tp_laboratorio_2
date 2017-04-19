@@ -1,0 +1,9 @@
+C:\Users\Leandro\Documents\Visual Studio 2012\Trabajos_Practicos\Tp1 - Calculadora\bin\Debug\Tp1 - Calculadora.exe.config
+C:\Users\Leandro\Documents\Visual Studio 2012\Trabajos_Practicos\Tp1 - Calculadora\bin\Debug\Tp1 - Calculadora.exe
+C:\Users\Leandro\Documents\Visual Studio 2012\Trabajos_Practicos\Tp1 - Calculadora\bin\Debug\Tp1 - Calculadora.pdb
+C:\Users\Leandro\Documents\Visual Studio 2012\Trabajos_Practicos\Tp1 - Calculadora\obj\Debug\Tp1 - Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Documents\Visual Studio 2012\Trabajos_Practicos\Tp1 - Calculadora\obj\Debug\Tp1___Calculadora.Form1.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Trabajos_Practicos\Tp1 - Calculadora\obj\Debug\Tp1___Calculadora.Properties.Resources.resources
+C:\Users\Leandro\Documents\Visual Studio 2012\Trabajos_Practicos\Tp1 - Calculadora\obj\Debug\Tp1 - Calculadora.csproj.GenerateResource.Cache
+C:\Users\Leandro\Documents\Visual Studio 2012\Trabajos_Practicos\Tp1 - Calculadora\obj\Debug\Tp1 - Calculadora.exe
+C:\Users\Leandro\Documents\Visual Studio 2012\Trabajos_Practicos\Tp1 - Calculadora\obj\Debug\Tp1 - Calculadora.pdb
